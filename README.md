@@ -1,5 +1,5 @@
 
-![Logo]("Keta\images\logo")
+![image alt](https://github.com/prathishta-shetty/Keta/blob/69cdcd004bbba289a1ea0007635cfd0ef75434e5/images/logo.png)
 
 
 
